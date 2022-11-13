@@ -16,7 +16,7 @@ const Home: React.FC = () => {
                         <IonTitle size='large'>Home</IonTitle>
                     </IonToolbar>
                 </IonHeader>
-                <IonItem>Your Next Discussions</IonItem>
+                <IonItem>Your upcoming Discussions</IonItem>
                 <Card title="Diva-e's Club" date="28.11.2022" time="14:00 - 16:00" subtitle="Clean Code"
                       location="Raum Gute Stube" chapter={2}/>
                 <Card title="HTW FB4 Club" date="02.12.2022" time="17:00 - 19:00" subtitle="Effective Java"
